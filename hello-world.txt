@@ -1,1 +1,2 @@
-This is editing the hello world file
+This is editing the hello world file.
+Testing out the commit command opening in a ne tab on vs code.
